@@ -1,7 +1,2 @@
-server:
-  port: 9527
-
-
-spring:
-  application:
-    name: cloud-gateway
+config:
+  info: i am test prod
