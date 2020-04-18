@@ -1,7 +1,2 @@
-server:
-  port: 9527
-
-
-spring:
-  application:
-    name: cloud-config
+config:
+  info: i am test test
